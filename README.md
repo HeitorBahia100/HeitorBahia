@@ -4,15 +4,15 @@
 💻 Focado em Desenvolvimento Backend  
 🚀 Atualmente estudando Java e Banco de Dados  
 
-## 🛠️ Tecnologias
+ 🛠️ Tecnologias
 - Java
 - MySQL
 - Git e GitHub
 
-## 📚 Em aprendizado
+📚 Em aprendizado
 - Spring Boot
 - APIs REST
 - Estrutura de Dados
 
-## 📫 Contato
+📫 Contato
 - LinkedIn: www.linkedin.com/in/heitor-bahia-00b5521aa
